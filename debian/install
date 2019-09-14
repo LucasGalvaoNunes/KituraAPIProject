@@ -1,0 +1,3 @@
+.build/							usr/src/KituraSabado
+terraform/scripts/install.sh	usr/src/KituraSabado
+terraform/scripts/start.sh		usr/src/KituraSabado

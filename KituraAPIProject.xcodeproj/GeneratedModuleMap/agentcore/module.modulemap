@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/home/g4lv/Documents/Developer/Web/KituraAPIProject/.build/checkouts/omr-agentcore/src/agentcore/include"
+    export *
+}
